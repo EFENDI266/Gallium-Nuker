@@ -294,7 +294,7 @@ async def main():
         reuse_choice = input("Reuse existing webhooks? (y/n): ").strip().lower()
         reuse_existing = reuse_choice == 'y'
         
-        web_name = "Ran By DSC.GG/DR-OP"
+        web_name = "Ran By discord.gg/dr-op"
         web_msg = input("Webhook Content: ")
         msg_amt = int(input("How Many Messages Per Channel?: "))
         
