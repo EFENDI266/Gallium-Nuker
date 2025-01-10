@@ -18,7 +18,7 @@ A discord Nuker Recoded In Python By Darks . Just Like "Lithium Nuker" . Not A S
 
 # Setup
 
-- install all modules 
+- install all modules by opening cmd in that folder and typing pip install -r requirements.txt
 - run "Gallium.py"
 - Put Token In Input 
 - Put Server Id (Guild Id)
