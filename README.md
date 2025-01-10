@@ -5,7 +5,7 @@ A discord Nuker Recoded In Python By Darks . Just Like "Lithium Nuker" . Not A S
 - I RECODED AND CHANGED THE WEBHOOK SPAM OF IT YOU CAN TRY IT NOW AND FIXED SOME GLITCHES / BUGS AND MAKE IT MORE FASTER
 - DARKS
 - darks.4sure
-- JOIN FOR MORE TOOLS:- https://discord.gg/rx8kYwWkQ9
+- JOIN FOR MORE TOOLS:- https://discord.gg/drontop
 # Code Credits & Real Dev
 - aesthetic.aizer
 
